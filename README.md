@@ -1,4 +1,5 @@
 # Piku Robot OOP v1
+-Arduino Nano based autonomous mobile robot with obstacle avoidance, Bluetooth control, ultrasonic sensing and modular Object-Oriented software architecture.
 
 ## Overview
 
@@ -45,20 +46,20 @@ This project was developed as a learning and research platform for future ESP32-
 - DC Gear Motors
 - Battery Pack
 - 2s charging module
-- 470uf, 100nf capacitors in both motors and drv vm-gnd
+- 470µF and 100nF Noise Suppression Capacitors
 
 ---
 
 ## Software Architecture (C++ OOP)
 
+```text
 Robot
 ├── MotorDriver
 ├── DistanceSensor
 ├── ServoScanner
 ├── Navigator
 └── BluetoothController
-
----
+```
 
 ## Future Development
 
