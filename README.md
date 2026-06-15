@@ -8,17 +8,18 @@ The robot combines obstacle avoidance, ultrasonic sensing, servo scanning, and B
 
 This project was developed as a learning and research platform for future ESP32-based robotic systems.
 
-## Robot Prototype
+## System Architecture
 
-![Robot Top](robot_top.jpeg)
+![System Architecture](system_architecture.jpg)
+
+## Robot Prototype
 
 ![Robot Front](robot_front.jpeg)
 
 ![Robot Side](robot_side.jpeg)
 
-## System Architecture
+![Robot Top](robot_top.jpeg)
 
-![System Architecture](system_architecture.jpg)
 
 ---
 
